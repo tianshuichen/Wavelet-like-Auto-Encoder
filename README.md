@@ -1,7 +1,7 @@
 # Wavelet-like-Auto-Encoder
 
 ### Introduction
-This repository contains the caffe prototxt and trained model described in the paper "Learning aWavelet-like Auto-Encoder to Accelerate Deep Neural Networks".
+This repository contains the caffe prototxt and trained model described in the paper "Learning a Wavelet-like Auto-Encoder to Accelerate Deep Neural Networks".
 
 ### Model
 224x224 center crop validation accuracy on ImageNet, evaluated with a C++ implementation on Intel i7 CPU (3.50GHz) and Nvidia GeForce GTX TITAN-X GPU.
@@ -24,3 +24,6 @@ If you use these models in your research, please cite:
 		booktitle = {AAAI},
 		year = {2018}
 	}
+
+### Concact
+Feel free to contact me if you have any question (Tianshui chen tianshuichen@gmail.com)
