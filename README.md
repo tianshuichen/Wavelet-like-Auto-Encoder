@@ -10,7 +10,7 @@ This repository contains the caffe prototxt and trained model described in the p
 | ------------- | ------------- |   ------------- |  ------------- | 
 | 67.88%  |88.27%  |   411.63 |     2.37 |
 
-**Note: we have retrained our model in the same way as desribed in the paper, and the accuracy is slightly better than that reported in the paper.**
+**Note: The model is retrained in the same way as desribed in the paper, and the accuracy is slightly better than that reported in the paper.**
 
 The trained model can be download from [google drive](https://drive.google.com/open?id=1rEm5n0dD5XLS1TxaDe4J-md0F8bCSOmi).
 
