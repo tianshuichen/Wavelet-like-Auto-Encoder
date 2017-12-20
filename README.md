@@ -16,7 +16,7 @@ The trained model can be download from [google drive](https://drive.google.com/o
 
 ### Citation
 
-If you use this model in your research, please cite:
+If you find this work useful for your research, please cite:
 
 	@inproceedings{{chen2018learning,
 		author = {Chen, Tianshui and Lin, Liang and Zuo, Wangmeng and Luo, Xiaonan and Zhang, Lei},
