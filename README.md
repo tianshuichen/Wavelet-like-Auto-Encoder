@@ -3,6 +3,13 @@
 ### Introduction
 This repository contains the caffe prototxt and trained model described in the paper "Learning aWavelet-like Auto-Encoder to Accelerate Deep Neural Networks".
 
+### Model
+224x224 center crop validation accuracy on ImageNet, evaluated with a C++ implementation on Intel i7 CPU (3.50GHz) and Nvidia GeForce GTX TITAN-X GPU.
+
+| Top-1 | Top-5 |CPU (ms)|GPU (ms)|
+| ------------- | ------------- |   ------------- |  ------------- | 
+| 67.88%  |88.27%  |  411.63 |2.37|
+
 
 ### Citation
 
