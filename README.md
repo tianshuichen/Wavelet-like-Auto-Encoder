@@ -26,4 +26,4 @@ If you find this work useful for your research, please cite:
 	}
 
 ### Concact
-Feel free to contact me if you have any question (Tianshui chen tianshuichen@gmail.com)
+Feel free to contact me if you have any question (Tianshui Chen tianshuichen@gmail.com)
