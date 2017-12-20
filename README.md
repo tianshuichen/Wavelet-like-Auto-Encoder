@@ -12,7 +12,7 @@ This repository contains the caffe prototxt and trained model described in the p
 
 **Note: The model is retrained in the same way as desribed in the paper, and the accuracy is slightly better than that reported in the paper.**
 
-The trained model can be download from [google drive](https://drive.google.com/open?id=1rEm5n0dD5XLS1TxaDe4J-md0F8bCSOmi) or [baidu yun](https://pan.baidu.com/s/1qYl2nvQ).
+The trained model can be download from [google drive](https://drive.google.com/open?id=1rEm5n0dD5XLS1TxaDe4J-md0F8bCSOmi) or [baidu cloud](https://pan.baidu.com/s/1qYl2nvQ).
 
 ### Citation
 
