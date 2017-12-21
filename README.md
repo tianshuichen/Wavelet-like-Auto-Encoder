@@ -6,7 +6,7 @@ This repository contains the caffe prototxt and trained model described in the p
 ### Model
 224x224 center crop validation accuracy on ImageNet, evaluated with a C++ implementation on Intel i7 CPU (3.50GHz) and Nvidia GeForce GTX TITAN-X GPU.
 
-| Top-1 | Top-5 |CPU (ms)|GPU (ms)|
+| Top-1 | Top-5 |CPU (ms/f)|GPU (ms/f)|
 | ------------- | ------------- |   ------------- |  ------------- | 
 | 67.88%  |88.27%  |   411.63 |     2.37 |
 
