@@ -3,7 +3,7 @@
 ### Introduction
 This repository contains the caffe prototxt and trained model described in the paper "[Learning a Wavelet-like Auto-Encoder to Accelerate Deep Neural Networks](https://arxiv.org/abs/1712.07493)".
 
-For more details, please visit our project pages: [WAE project page](http://www.sysu-hcp.net/wae/).
+For more details, please visit our project page: [WAE project page](http://www.sysu-hcp.net/wae/).
 
 ### Model
 224x224 center crop validation accuracy on ImageNet, evaluated with a C++ implementation on Intel i7 CPU (3.50GHz) and Nvidia GeForce GTX TITAN-X GPU.
